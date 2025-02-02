@@ -14,7 +14,7 @@ Our over-arching goal for TidyTuesday is to provide real-world datasets so that 
 
 ***
 
-## How to Participate
+# How to Participate
 
 - Data is [posted to social media](dataset_announcements.md) every Monday morning. Follow the instructions in the new post for how to download the data.
 - [Explore the data](https://r4ds.hadley.nz/), watching out for interesting relationships. We would like to emphasize that you should not draw conclusions about **causation** in the data. There are various moderating variables that affect all data, many of which might not have been captured in these datasets. As such, our suggestion is to use the data provided to practice your data tidying and plotting techniques, and to consider for yourself what nuances might underlie these relationships.
